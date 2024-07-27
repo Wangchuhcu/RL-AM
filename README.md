@@ -1,0 +1,2 @@
+# Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials
+这个程序构建了一个多智能体强化学习模型，可以实现可定制任意吸声系数的声学超材料逆向设计。为了更方便用户操作，我们设计了一个matlab小程序。具体操作说明请参考readme文件。希望这个程序能够帮助声学超材料设计者和研究者更方便的进行设计和研究。
