@@ -18,5 +18,9 @@
 7.需要注意的是：本程序是可以展示逆向设计的超材料的图片如**图4**所示，但是，需要与comsol程序进行联合。这需要在代码文件中放入.mph文件，由于此类文件超过了25m，无法上传到github，所以此程序无法展示声学超材料的结构图片。
 如果需要该功能，可以根据合理的需求从作者处获得具有此功能的代码。
 ![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/program%20interface.png)  
-figure1 program interface  
+***figure1 program interface***  
+
+![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/design%20objective.png)
+***figure2 Design results***
+
 
