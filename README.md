@@ -22,7 +22,8 @@
 
 ![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/design%20objective.png)
 **figure2 Design results**  
-![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/program%20interface.png)
-**Design result**
+![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/Design%20results.png)
+**Design result**  
+
 
 
