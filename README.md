@@ -33,14 +33,14 @@ This program is written in MATLAB, using version R2023b.
 6.Finally, the model displays the parameters of the highest-scoring inverse design results at the bottom of the interface, and its absorption coefficient curve will be shown on the coordinate axes, as illustrated in ***Figure 3***；   
 7.It is important to note that this program can display images of the inverse design of metamaterials, as shown in ***Figure 4***.However, achieving this functionality requires a collaboration between **MATLAB** and **COMSOL**, which necessitates placing the **.mph** files in the code files. Since such files exceed 25 MB, they cannot be uploaded to GitHub, thus this program is unable to display images of the acoustic metamaterial structures.If this functionality is needed, you can obtain the code with this feature from the author based on reasonable requests.
 
-![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/program%20interface.png)  
+![image text](https://github.com/Wangchuhcu/RL-AM/blob/main/App_figure/program%20interface.png)  
 **figure1 program interface**
 
 ![image text](https://github.com/Wangchuhcu/RL-AM/blob/main/App_figure/design%20objective-2.png)
 **figure2 Design objectives**  
-![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/Design%20results.png)
+![image text](https://github.com/Wangchuhcu/RL-AM/blob/main/App_figure/Design%20results-2.png)
 **figure3 Design result**  
-![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/Pictures%20of%20acoustic%20metamaterial%20structures.png)
+![image text](https://github.com/Wangchuhcu/RL-AM/blob/main/App_figure/Pictures%20of%20acoustic%20metamaterial%20structures-2.png)
 **figure4 Pictures of acoustic metamaterial structures**  
 
 
