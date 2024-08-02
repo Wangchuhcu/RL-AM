@@ -36,7 +36,7 @@ This program is written in MATLAB, using version R2023b.
 ![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/program%20interface.png)  
 **figure1 program interface**
 
-![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/design%20objective.png)
+![image text](https://github.com/Wangchuhcu/RL-AM/blob/main/App_figure/design%20objective-2.png)
 **figure2 Design objectives**  
 ![image text](https://github.com/Wangchuhcu/Reinforcement-Learning-Driven-Inverse-Design-of-Acoustic-Metamaterials/blob/main/App_figure/Design%20results.png)
 **figure3 Design result**  
